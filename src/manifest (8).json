@@ -1,0 +1,14 @@
+{
+    "name": "trojanhorsev3",
+    "description": "this steals your token and explodes your discord do not download!",
+    "authors": [
+        {
+            "name": "21aansell-sketch",
+            "id": "0"
+        }
+    ],
+    "main": "src/index.ts",
+    "vendetta": {
+        "icon": "ic_badge_staff"
+    }
+}
